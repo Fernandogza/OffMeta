@@ -3,9 +3,9 @@
         //---- generacion del nombre del build
         $nombreBuild = "";
         $lugares = array("Botswana", "Nigeria", "Valladolid", "Mexico", "NA", "EU", "Zimbabwe", "India", "Brazil", "South Africa", "Poland", "Namibia", "Nicaragua", "Ecuador", "Mozambique",
-            "Somalia", "Ethiopia", "Cuba", "USA", "Taiwan");
+            "Somalia", "Ethiopia", "Cuba", "USA", "Taiwan", "Oceania");
         $nombres = array("Flamer", "Feeder", "Noob", "Pro", "Luchador", "Bad", "AFK", "Press R", "Rager", "No Skill Required", "Scared", "Majestic", "Magical", "Champion", "Activist", "Cheater",
-            "Lucky", "Donger", "OP", "Korean", "Insane", "Gotta go fast", "Solo", "Tanky DEEPS", "Leaver");
+            "Lucky", "Donger", "OP", "Korean", "Insane", "Gotta Go Fast", "Solo", "Tanky DEEPS", "Leaver", "Bronze", "Challenger", "Dota Pro", "Diamond");
 
         $type = rand(0, 1);
 
