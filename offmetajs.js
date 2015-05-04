@@ -1,3 +1,4 @@
+//---- funcion que carga todos los champions al html
 function loadChampions () {
     xmlhttp = new XMLHttpRequest();
     xmlhttp.onreadystatechange=function() {
@@ -9,6 +10,8 @@ function loadChampions () {
     xmlhttp.send();
 }
 
+
+//---- funcion que carga el champion en especifico
 function loadSpecificChamp(index) {
     xmlhttp = new XMLHttpRequest();
     xmlhttp.onreadystatechange=function() {
@@ -20,6 +23,8 @@ function loadSpecificChamp(index) {
     xmlhttp.send();
 }
 
+
+//---- funcion que carga un champion random
 function lucky () {
     xmlhttp = new XMLHttpRequest();
     xmlhttp.onreadystatechange=function() {
@@ -31,6 +36,8 @@ function lucky () {
     xmlhttp.send();
 }
 
+
+//---- funcion que rolea un champion de acuerdo a su posicion
 function roleChamp (role) {
     xmlhttp = new XMLHttpRequest();
     xmlhttp.onreadystatechange=function() {

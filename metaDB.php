@@ -47,13 +47,17 @@
         return $nombreBuild;
         //---- generacion del nombre del build
     }
+
+    //---- conexion a la base de datos
     $op = $_GET['op'];
     $con = mysqli_connect('localhost','root','','lol');
     if (!$con) {
         die('Could not connect: ' . mysqli_error($con));
     }
 
+    //---- operacion a realizar
     if($op == "loadchamps") {
+        //cargar lista con todos los champions y desplegarlos en pantalla
         $query = "SELECT * FROM champions order by name ASC";
         $result = mysqli_query($con, $query);
         echo "<div class='row container'>";
@@ -188,8 +192,9 @@
         $result = mysqli_query($con, $query);
         $row = mysqli_fetch_array($result);
         $art = "Splasharts/".substr($row['image'], 0, -3) . "jpg";
+        $tmp = '"'.$role.'"';
         echo "<div class='row center-align'><h5 class='white-text'>".$row['name']." Build Generator &ensp;</h5>";
-        echo "<a href='javascript:roleChamp(".$role.")'><i class='small mdi-navigation-refresh'></i></a></div>";
+        echo "<a href='javascript:roleChamp($tmp)'><i class='small mdi-navigation-refresh'></i></a></div>";
         echo "<div class='row container corner' style='background:url(".$art.") no-repeat'>";
         echo "<br>";
         $nomBuild = generaNombreBuild($row['name']);
