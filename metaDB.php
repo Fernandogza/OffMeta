@@ -23,7 +23,7 @@
         $art = "Splasharts/".substr($row['image'], 0, -3) . "jpg";
         echo $art;
         echo "<div class='row center-align'><h5 class='white-text'>".$row['name']." Build Generator</h5></div>";
-        echo "<div class='row container' style='background:url(".$art.") no-repeat'>";
+        echo "<div class='row container corner' style='background:url(".$art.") no-repeat'>";
         //titulo e informacion del champion
         echo "<br>";
         echo "<div class='row'><div class='col s2'><center><img src='Champions/" . $row['image'] . "'/></center></div>";
@@ -80,7 +80,7 @@
         $row = mysqli_fetch_array($result);
         $art = "Splasharts/".substr($row['image'], 0, -3) . "jpg";
         echo "<div class='row center-align'><h5 class='white-text'>".$row['name']." Build Generator</h5></div>";
-        echo "<div class='row container' style='background:url(".$art.") no-repeat'>";
+        echo "<div class='row container corner' style='background:url(".$art.") no-repeat'>";
         echo "<br>";
         //titulo e informacion del champion
         echo "<div class='row'><div class='col s2'><center><img src='Champions/" . $row['image'] . "'/></center></div>";
