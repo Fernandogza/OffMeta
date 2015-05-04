@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!--Import materialize.css-->
+        <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+    </head>
+    <body class="black">
+
+        <ul id="role" class="dropdown-content">
+            <li><a class="light-blue-text"  href="#!">Top Lane</a></li>
+            <li><a class="light-blue-text" href="#!">Mid Lane</a></li>
+            <li><a class="light-blue-text" href="#!">Bot Lane</a></li>
+            <li><a class="light-blue-text" href="#!">Jungle</a></li>
+        </ul>
+        <nav>
+            <div class="nav-wrapper black">
+                <a href="#" class="brand-logo center">OffMeta</a>
+                <ul id="nav-mobile" class="left hide-on-med-and-down">
+                    <li><a class="light-blue-text" href="javascript:lucky()">Feeling Lucky!</a></li>
+                    <li><a class="dropdown-button light-blue-text" href="" data-activates="role">Role<i class="mdi-navigation-arrow-drop-down right"></i></a></li>
+                    <li><a class="light-blue-text" href="javascript:loadChampions()">Specific Champion</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div id="champ-container" class="row">
+        </div>
+        <!--Import jQuery before materialize.js-->
+        <script type="text/javascript" src="offmetajs.js"></script>
+        <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <script type="text/javascript" src="js/materialize.min.js"></script>
+    </body>
+</html>
