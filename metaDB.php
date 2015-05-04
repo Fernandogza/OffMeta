@@ -47,7 +47,7 @@
         $result = mysqli_query($con, $query);
         $randomT = mysqli_fetch_array($result);
         //desplegar boots, enchantment, trinket
-        echo "<div class='row'><div class='col s2'><img src='Boots/" . $randomB['image'] . "'/></div><div class='col s3'><img src='Enchantments/" . $randomE['image'] . "'/></div><div class='col s2'><img src='Trinkets/" . $randomT['image'] . "'/></div></div>";
+        echo "<div class='row'><div class='col s2'><img class='items' src='Boots/" . $randomB['image'] . "'/></div><div class='col s3'><img class='items' src='Enchantments/" . $randomE['image'] . "'/></div><div class='col s2'><img class='items' src='Trinkets/" . $randomT['image'] . "'/></div></div>";
 
         //seccion de items, spells
         echo "<div class='row'><div class='col s6'><h4 class='white-text'>Items</h4></div><div class='col s2'><h4 class='white-text'>Spells</h4></div></div>";
@@ -59,9 +59,9 @@
             $query = "SELECT * FROM items WHERE id=".$item[$i];
             $result = mysqli_query($con, $query);
             $randomI = mysqli_fetch_array($result);
-            echo "<div class='col s1'><img src='Items/" . $randomI['image'] . "'/></div>";
+            echo "<div class='col s1'><img class='items' src='Items/" . $randomI['image'] . "'/></div>";
         }
-        echo "<div class='col s1'><p></p></div>";
+        echo "<div class='col s1'><h6></h6></div>";
         //for loop para desplegar los 2 spells
         $spell = range(1, 11);
         shuffle($spell);
@@ -69,7 +69,7 @@
             $query = "SELECT * FROM spells WHERE id=".$spell[$i];
             $result = mysqli_query($con, $query);
             $randomS = mysqli_fetch_array($result);
-            echo "<div class='col s1'><img src='Spells/" . $randomS['image'] . "'/></div>";
+            echo "<div class='col s1'><img class='items' src='Spells/" . $randomS['image'] . "'/></div>";
         }
         echo "</div></div>";
     } else if ($op == "luckyBuild") {
@@ -105,7 +105,7 @@
         $result = mysqli_query($con, $query);
         $randomT = mysqli_fetch_array($result);
         //desplegar boots, enchantment, trinket
-        echo "<div class='row'><div class='col s2'><img src='Boots/" . $randomB['image'] . "'/></div><div class='col s3'><img src='Enchantments/" . $randomE['image'] . "'/></div><div class='col s2'><img src='Trinkets/" . $randomT['image'] . "'/></div></div>";
+        echo "<div class='row'><div class='col s2'><img class='items' src='Boots/" . $randomB['image'] . "'/></div><div class='col s3'><img class='items' src='Enchantments/" . $randomE['image'] . "'/></div><div class='col s2'><img class='items' src='Trinkets/" . $randomT['image'] . "'/></div></div>";
 
         //seccion de items, spells
         echo "<div class='row'><div class='col s6'><h4 class='white-text'>Items</h4></div><div class='col s2'><h4 class='white-text'>Spells</h4></div></div>";
@@ -117,9 +117,9 @@
             $query = "SELECT * FROM items WHERE id=".$item[$i];
             $result = mysqli_query($con, $query);
             $randomI = mysqli_fetch_array($result);
-            echo "<div class='col s1'><img src='Items/" . $randomI['image'] . "'/></div>";
+            echo "<div class='col s1'><img class='items' src='Items/" . $randomI['image'] . "'/></div>";
         }
-        echo "<div class='col s1'><p></p></div>";
+        echo "<div class='col s1'><h6></h6></div>";
         //for loop para desplegar los 2 spells
         $spell = range(1, 11);
         shuffle($spell);
@@ -127,7 +127,7 @@
             $query = "SELECT * FROM spells WHERE id=".$spell[$i];
             $result = mysqli_query($con, $query);
             $randomS = mysqli_fetch_array($result);
-            echo "<div class='col s1'><img src='Spells/" . $randomS['image'] . "'/></div>";
+            echo "<div class='col s1'><img class='items' src='Spells/" . $randomS['image'] . "'/></div>";
         }
         echo "</div></div>";
     } else if ($op == "roleBuild") {
@@ -164,7 +164,7 @@
         $result = mysqli_query($con, $query);
         $randomT = mysqli_fetch_array($result);
         //desplegar boots, enchantment, trinket
-        echo "<div class='row'><div class='col s2'><img src='Boots/" . $randomB['image'] . "'/></div><div class='col s3'><img src='Enchantments/" . $randomE['image'] . "'/></div><div class='col s2'><img src='Trinkets/" . $randomT['image'] . "'/></div></div>";
+        echo "<div class='row'><div class='col s2'><img class='items' src='Boots/" . $randomB['image'] . "'/></div><div class='col s3'><img class='items' src='Enchantments/" . $randomE['image'] . "'/></div><div class='col s2'><img class='items' src='Trinkets/" . $randomT['image'] . "'/></div></div>";
 
         //seccion de items, spells
         echo "<div class='row'><div class='col s6'><h4 class='white-text'>Items</h4></div><div class='col s2'><h4 class='white-text'>Spells</h4></div></div>";
@@ -176,9 +176,9 @@
             $query = "SELECT * FROM items WHERE id=".$item[$i];
             $result = mysqli_query($con, $query);
             $randomI = mysqli_fetch_array($result);
-            echo "<div class='col s1'><img src='Items/" . $randomI['image'] . "'/></div>";
+            echo "<div class='col s1'><img class='items' src='Items/" . $randomI['image'] . "'/></div>";
         }
-        echo "<div class='col s1'><p></p></div>";
+        echo "<div class='col s1'><h6></h6></div>";
         //for loop para desplegar los 2 spells
         $spell = range(1, 11);
         shuffle($spell);
@@ -186,7 +186,7 @@
             $query = "SELECT * FROM spells WHERE id=".$spell[$i];
             $result = mysqli_query($con, $query);
             $randomS = mysqli_fetch_array($result);
-            echo "<div class='col s1'><img src='Spells/" . $randomS['image'] . "'/></div>";
+            echo "<div class='col s1'><img class='items' src='Spells/" . $randomS['image'] . "'/></div>";
         }
         echo "</div></div>";
     }
