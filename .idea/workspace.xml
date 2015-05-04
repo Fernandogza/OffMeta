@@ -34,8 +34,8 @@
       <file leaf-file-name="OffMeta.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OffMeta.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.807693" vertical-offset="102" max-vertical-offset="969">
-              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+            <state vertical-scroll-proportion="-21.961538" vertical-offset="75" max-vertical-offset="969">
+              <caret line="38" column="84" selection-start-line="38" selection-start-column="84" selection-end-line="38" selection-end-column="84" />
               <folding />
             </state>
           </provider>
@@ -54,28 +54,29 @@
       <file leaf-file-name="metaDB.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/metaDB.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33281004" vertical-offset="2185" max-vertical-offset="3366">
-              <caret line="141" column="51" selection-start-line="141" selection-start-column="51" selection-end-line="141" selection-end-column="51" />
+            <state vertical-scroll-proportion="0.6367764" vertical-offset="2703" max-vertical-offset="4080">
+              <caret line="201" column="141" selection-start-line="201" selection-start-column="141" selection-end-line="201" selection-end-column="141" />
               <folding>
-                <marker date="1430760821697" expanded="true" signature="214:255" placeholder="SELECT * FRO..champions..." />
-                <marker date="1430760821697" expanded="true" signature="873:906" placeholder="SELECT * FRO..champions..." />
-                <marker date="1430760821697" expanded="true" signature="2230:2259" placeholder="SELECT * FRO..boots..." />
-                <marker date="1430760821697" expanded="true" signature="2381:2417" placeholder="SELECT * FRO..enchantments..." />
-                <marker date="1430760821697" expanded="true" signature="2545:2577" placeholder="SELECT * FRO..trinkets..." />
-                <marker date="1430760821697" expanded="true" signature="3416:3445" placeholder="SELECT * FRO..items..." />
-                <marker date="1430760821697" expanded="true" signature="3884:3914" placeholder="SELECT * FRO..spells..." />
-                <marker date="1430760821697" expanded="true" signature="4335:4368" placeholder="SELECT * FRO..champions..." />
-                <marker date="1430760821697" expanded="true" signature="5666:5695" placeholder="SELECT * FRO..boots..." />
-                <marker date="1430760821697" expanded="true" signature="5817:5853" placeholder="SELECT * FRO..enchantments..." />
-                <marker date="1430760821697" expanded="true" signature="5981:6013" placeholder="SELECT * FRO..trinkets..." />
-                <marker date="1430760821697" expanded="true" signature="6852:6881" placeholder="SELECT * FRO..items..." />
-                <marker date="1430760821697" expanded="true" signature="7320:7350" placeholder="SELECT * FRO..spells..." />
-                <marker date="1430760821697" expanded="true" signature="7801:7834" placeholder="SELECT * FRO..champions..." />
-                <marker date="1430760821697" expanded="true" signature="9183:9212" placeholder="SELECT * FRO..boots..." />
-                <marker date="1430760821697" expanded="true" signature="9334:9370" placeholder="SELECT * FRO..enchantments..." />
-                <marker date="1430760821697" expanded="true" signature="9498:9530" placeholder="SELECT * FRO..trinkets..." />
-                <marker date="1430760821697" expanded="true" signature="10369:10398" placeholder="SELECT * FRO..items..." />
-                <marker date="1430760821697" expanded="true" signature="10837:10867" placeholder="SELECT * FRO..spells..." />
+                <element signature="e#2062#13292#0#PHP" expanded="false" />
+                <marker date="1430770798887" expanded="true" signature="2106:2147" placeholder="SELECT * FRO..champions..." />
+                <marker date="1430770798887" expanded="true" signature="2765:2798" placeholder="SELECT * FRO..champions..." />
+                <marker date="1430770798887" expanded="true" signature="4201:4230" placeholder="SELECT * FRO..boots..." />
+                <marker date="1430770798887" expanded="true" signature="4352:4388" placeholder="SELECT * FRO..enchantments..." />
+                <marker date="1430770798887" expanded="true" signature="4516:4548" placeholder="SELECT * FRO..trinkets..." />
+                <marker date="1430770798887" expanded="true" signature="5387:5416" placeholder="SELECT * FRO..items..." />
+                <marker date="1430770798887" expanded="true" signature="5855:5885" placeholder="SELECT * FRO..spells..." />
+                <marker date="1430770798887" expanded="true" signature="6306:6339" placeholder="SELECT * FRO..champions..." />
+                <marker date="1430770798887" expanded="true" signature="7716:7745" placeholder="SELECT * FRO..boots..." />
+                <marker date="1430770798887" expanded="true" signature="7867:7903" placeholder="SELECT * FRO..enchantments..." />
+                <marker date="1430770798887" expanded="true" signature="8031:8063" placeholder="SELECT * FRO..trinkets..." />
+                <marker date="1430770798887" expanded="true" signature="8902:8931" placeholder="SELECT * FRO..items..." />
+                <marker date="1430770798887" expanded="true" signature="9370:9400" placeholder="SELECT * FRO..spells..." />
+                <marker date="1430770798887" expanded="true" signature="9851:9884" placeholder="SELECT * FRO..champions..." />
+                <marker date="1430770798887" expanded="true" signature="11342:11371" placeholder="SELECT * FRO..boots..." />
+                <marker date="1430770798887" expanded="true" signature="11493:11529" placeholder="SELECT * FRO..enchantments..." />
+                <marker date="1430770798887" expanded="true" signature="11657:11689" placeholder="SELECT * FRO..trinkets..." />
+                <marker date="1430770798887" expanded="true" signature="12528:12557" placeholder="SELECT * FRO..items..." />
+                <marker date="1430770798887" expanded="true" signature="12996:13026" placeholder="SELECT * FRO..spells..." />
               </folding>
             </state>
           </provider>
@@ -102,8 +103,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1552" />
-    <option name="height" value="842" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -128,6 +129,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -162,7 +164,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,10 +204,10 @@
     <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
       <method />
     </configuration>
-    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
       <method />
     </configuration>
-    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
       <method />
     </configuration>
     <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
@@ -216,11 +217,11 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
     <configuration default="true" type="NodeWebKit" factoryName="Node-webkit">
       <option name="name" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
@@ -230,6 +231,9 @@
     <configuration default="true" type="AppEnginePhpConfigurationType" factoryName="App Engine for PHP">
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -237,9 +241,6 @@
       <arguments />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="2">
@@ -267,27 +268,31 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1552" height="842" extended-state="6" />
+=======
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+>>>>>>> origin/master
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="6.510417E-4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39972714" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="5.2083336E-4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39972714" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -309,14 +314,16 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/OffMeta.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="918">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="969">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -334,25 +341,26 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3366">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1430760821697" expanded="true" signature="214:255" placeholder="SELECT * FRO..champions..." />
-            <marker date="1430760821697" expanded="true" signature="873:906" placeholder="SELECT * FRO..champions..." />
-            <marker date="1430760821697" expanded="true" signature="2230:2259" placeholder="SELECT * FRO..boots..." />
-            <marker date="1430760821697" expanded="true" signature="2381:2417" placeholder="SELECT * FRO..enchantments..." />
-            <marker date="1430760821697" expanded="true" signature="2545:2577" placeholder="SELECT * FRO..trinkets..." />
-            <marker date="1430760821697" expanded="true" signature="3416:3445" placeholder="SELECT * FRO..items..." />
-            <marker date="1430760821697" expanded="true" signature="3884:3914" placeholder="SELECT * FRO..spells..." />
-            <marker date="1430760821697" expanded="true" signature="4335:4368" placeholder="SELECT * FRO..champions..." />
-            <marker date="1430760821697" expanded="true" signature="5666:5695" placeholder="SELECT * FRO..boots..." />
-            <marker date="1430760821697" expanded="true" signature="5817:5853" placeholder="SELECT * FRO..enchantments..." />
-            <marker date="1430760821697" expanded="true" signature="5981:6013" placeholder="SELECT * FRO..trinkets..." />
-            <marker date="1430760821697" expanded="true" signature="6852:6881" placeholder="SELECT * FRO..items..." />
-            <marker date="1430760821697" expanded="true" signature="7320:7350" placeholder="SELECT * FRO..spells..." />
-            <marker date="1430760821697" expanded="true" signature="7801:7834" placeholder="SELECT * FRO..champions..." />
-            <marker date="1430760821697" expanded="true" signature="9183:9212" placeholder="SELECT * FRO..boots..." />
-            <marker date="1430760821697" expanded="true" signature="9334:9370" placeholder="SELECT * FRO..enchantments..." />
-            <marker date="1430760821697" expanded="true" signature="9498:9530" placeholder="SELECT * FRO..trinkets..." />
-            <marker date="1430760821697" expanded="true" signature="10369:10398" placeholder="SELECT * FRO..items..." />
-            <marker date="1430760821697" expanded="true" signature="10837:10867" placeholder="SELECT * FRO..spells..." />
+            <element signature="e#2062#13292#0#PHP" expanded="false" />
+            <marker date="1430770798887" expanded="true" signature="2106:2147" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="2765:2798" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="4201:4230" placeholder="SELECT * FRO..boots..." />
+            <marker date="1430770798887" expanded="true" signature="4352:4388" placeholder="SELECT * FRO..enchantments..." />
+            <marker date="1430770798887" expanded="true" signature="4516:4548" placeholder="SELECT * FRO..trinkets..." />
+            <marker date="1430770798887" expanded="true" signature="5387:5416" placeholder="SELECT * FRO..items..." />
+            <marker date="1430770798887" expanded="true" signature="5855:5885" placeholder="SELECT * FRO..spells..." />
+            <marker date="1430770798887" expanded="true" signature="6306:6339" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="7716:7745" placeholder="SELECT * FRO..boots..." />
+            <marker date="1430770798887" expanded="true" signature="7867:7903" placeholder="SELECT * FRO..enchantments..." />
+            <marker date="1430770798887" expanded="true" signature="8031:8063" placeholder="SELECT * FRO..trinkets..." />
+            <marker date="1430770798887" expanded="true" signature="8902:8931" placeholder="SELECT * FRO..items..." />
+            <marker date="1430770798887" expanded="true" signature="9370:9400" placeholder="SELECT * FRO..spells..." />
+            <marker date="1430770798887" expanded="true" signature="9851:9884" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="11342:11371" placeholder="SELECT * FRO..boots..." />
+            <marker date="1430770798887" expanded="true" signature="11493:11529" placeholder="SELECT * FRO..enchantments..." />
+            <marker date="1430770798887" expanded="true" signature="11657:11689" placeholder="SELECT * FRO..trinkets..." />
+            <marker date="1430770798887" expanded="true" signature="12528:12557" placeholder="SELECT * FRO..items..." />
+            <marker date="1430770798887" expanded="true" signature="12996:13026" placeholder="SELECT * FRO..spells..." />
           </folding>
         </state>
       </provider>
@@ -378,25 +386,71 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3366">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1430760821697" expanded="true" signature="214:255" placeholder="SELECT * FRO..champions..." />
-            <marker date="1430760821697" expanded="true" signature="873:906" placeholder="SELECT * FRO..champions..." />
-            <marker date="1430760821697" expanded="true" signature="2230:2259" placeholder="SELECT * FRO..boots..." />
-            <marker date="1430760821697" expanded="true" signature="2381:2417" placeholder="SELECT * FRO..enchantments..." />
-            <marker date="1430760821697" expanded="true" signature="2545:2577" placeholder="SELECT * FRO..trinkets..." />
-            <marker date="1430760821697" expanded="true" signature="3416:3445" placeholder="SELECT * FRO..items..." />
-            <marker date="1430760821697" expanded="true" signature="3884:3914" placeholder="SELECT * FRO..spells..." />
-            <marker date="1430760821697" expanded="true" signature="4335:4368" placeholder="SELECT * FRO..champions..." />
-            <marker date="1430760821697" expanded="true" signature="5666:5695" placeholder="SELECT * FRO..boots..." />
-            <marker date="1430760821697" expanded="true" signature="5817:5853" placeholder="SELECT * FRO..enchantments..." />
-            <marker date="1430760821697" expanded="true" signature="5981:6013" placeholder="SELECT * FRO..trinkets..." />
-            <marker date="1430760821697" expanded="true" signature="6852:6881" placeholder="SELECT * FRO..items..." />
-            <marker date="1430760821697" expanded="true" signature="7320:7350" placeholder="SELECT * FRO..spells..." />
-            <marker date="1430760821697" expanded="true" signature="7801:7834" placeholder="SELECT * FRO..champions..." />
-            <marker date="1430760821697" expanded="true" signature="9183:9212" placeholder="SELECT * FRO..boots..." />
-            <marker date="1430760821697" expanded="true" signature="9334:9370" placeholder="SELECT * FRO..enchantments..." />
-            <marker date="1430760821697" expanded="true" signature="9498:9530" placeholder="SELECT * FRO..trinkets..." />
-            <marker date="1430760821697" expanded="true" signature="10369:10398" placeholder="SELECT * FRO..items..." />
-            <marker date="1430760821697" expanded="true" signature="10837:10867" placeholder="SELECT * FRO..spells..." />
+            <element signature="e#2062#13292#0#PHP" expanded="false" />
+            <marker date="1430770798887" expanded="true" signature="2106:2147" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="2765:2798" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="4201:4230" placeholder="SELECT * FRO..boots..." />
+            <marker date="1430770798887" expanded="true" signature="4352:4388" placeholder="SELECT * FRO..enchantments..." />
+            <marker date="1430770798887" expanded="true" signature="4516:4548" placeholder="SELECT * FRO..trinkets..." />
+            <marker date="1430770798887" expanded="true" signature="5387:5416" placeholder="SELECT * FRO..items..." />
+            <marker date="1430770798887" expanded="true" signature="5855:5885" placeholder="SELECT * FRO..spells..." />
+            <marker date="1430770798887" expanded="true" signature="6306:6339" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="7716:7745" placeholder="SELECT * FRO..boots..." />
+            <marker date="1430770798887" expanded="true" signature="7867:7903" placeholder="SELECT * FRO..enchantments..." />
+            <marker date="1430770798887" expanded="true" signature="8031:8063" placeholder="SELECT * FRO..trinkets..." />
+            <marker date="1430770798887" expanded="true" signature="8902:8931" placeholder="SELECT * FRO..items..." />
+            <marker date="1430770798887" expanded="true" signature="9370:9400" placeholder="SELECT * FRO..spells..." />
+            <marker date="1430770798887" expanded="true" signature="9851:9884" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="11342:11371" placeholder="SELECT * FRO..boots..." />
+            <marker date="1430770798887" expanded="true" signature="11493:11529" placeholder="SELECT * FRO..enchantments..." />
+            <marker date="1430770798887" expanded="true" signature="11657:11689" placeholder="SELECT * FRO..trinkets..." />
+            <marker date="1430770798887" expanded="true" signature="12528:12557" placeholder="SELECT * FRO..items..." />
+            <marker date="1430770798887" expanded="true" signature="12996:13026" placeholder="SELECT * FRO..spells..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OffMeta.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="918">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offmetajs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="43" max-vertical-offset="816">
+          <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metaDB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3366">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#2062#13292#0#PHP" expanded="false" />
+            <marker date="1430770798887" expanded="true" signature="2106:2147" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="2765:2798" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="4201:4230" placeholder="SELECT * FRO..boots..." />
+            <marker date="1430770798887" expanded="true" signature="4352:4388" placeholder="SELECT * FRO..enchantments..." />
+            <marker date="1430770798887" expanded="true" signature="4516:4548" placeholder="SELECT * FRO..trinkets..." />
+            <marker date="1430770798887" expanded="true" signature="5387:5416" placeholder="SELECT * FRO..items..." />
+            <marker date="1430770798887" expanded="true" signature="5855:5885" placeholder="SELECT * FRO..spells..." />
+            <marker date="1430770798887" expanded="true" signature="6306:6339" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="7716:7745" placeholder="SELECT * FRO..boots..." />
+            <marker date="1430770798887" expanded="true" signature="7867:7903" placeholder="SELECT * FRO..enchantments..." />
+            <marker date="1430770798887" expanded="true" signature="8031:8063" placeholder="SELECT * FRO..trinkets..." />
+            <marker date="1430770798887" expanded="true" signature="8902:8931" placeholder="SELECT * FRO..items..." />
+            <marker date="1430770798887" expanded="true" signature="9370:9400" placeholder="SELECT * FRO..spells..." />
+            <marker date="1430770798887" expanded="true" signature="9851:9884" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="11342:11371" placeholder="SELECT * FRO..boots..." />
+            <marker date="1430770798887" expanded="true" signature="11493:11529" placeholder="SELECT * FRO..enchantments..." />
+            <marker date="1430770798887" expanded="true" signature="11657:11689" placeholder="SELECT * FRO..trinkets..." />
+            <marker date="1430770798887" expanded="true" signature="12528:12557" placeholder="SELECT * FRO..items..." />
+            <marker date="1430770798887" expanded="true" signature="12996:13026" placeholder="SELECT * FRO..spells..." />
           </folding>
         </state>
       </provider>
@@ -422,25 +476,26 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2346">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1430760821697" expanded="true" signature="214:255" placeholder="SELECT * FRO..champions..." />
-            <marker date="1430760821697" expanded="true" signature="873:906" placeholder="SELECT * FRO..champions..." />
-            <marker date="1430760821697" expanded="true" signature="2230:2259" placeholder="SELECT * FRO..boots..." />
-            <marker date="1430760821697" expanded="true" signature="2381:2417" placeholder="SELECT * FRO..enchantments..." />
-            <marker date="1430760821697" expanded="true" signature="2545:2577" placeholder="SELECT * FRO..trinkets..." />
-            <marker date="1430760821697" expanded="true" signature="3416:3445" placeholder="SELECT * FRO..items..." />
-            <marker date="1430760821697" expanded="true" signature="3884:3914" placeholder="SELECT * FRO..spells..." />
-            <marker date="1430760821697" expanded="true" signature="4335:4368" placeholder="SELECT * FRO..champions..." />
-            <marker date="1430760821697" expanded="true" signature="5666:5695" placeholder="SELECT * FRO..boots..." />
-            <marker date="1430760821697" expanded="true" signature="5817:5853" placeholder="SELECT * FRO..enchantments..." />
-            <marker date="1430760821697" expanded="true" signature="5981:6013" placeholder="SELECT * FRO..trinkets..." />
-            <marker date="1430760821697" expanded="true" signature="6852:6881" placeholder="SELECT * FRO..items..." />
-            <marker date="1430760821697" expanded="true" signature="7320:7350" placeholder="SELECT * FRO..spells..." />
-            <marker date="1430760821697" expanded="true" signature="7801:7834" placeholder="SELECT * FRO..champions..." />
-            <marker date="1430760821697" expanded="true" signature="9183:9212" placeholder="SELECT * FRO..boots..." />
-            <marker date="1430760821697" expanded="true" signature="9334:9370" placeholder="SELECT * FRO..enchantments..." />
-            <marker date="1430760821697" expanded="true" signature="9498:9530" placeholder="SELECT * FRO..trinkets..." />
-            <marker date="1430760821697" expanded="true" signature="10369:10398" placeholder="SELECT * FRO..items..." />
-            <marker date="1430760821697" expanded="true" signature="10837:10867" placeholder="SELECT * FRO..spells..." />
+            <element signature="e#2062#13292#0#PHP" expanded="false" />
+            <marker date="1430770798887" expanded="true" signature="2106:2147" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="2765:2798" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="4201:4230" placeholder="SELECT * FRO..boots..." />
+            <marker date="1430770798887" expanded="true" signature="4352:4388" placeholder="SELECT * FRO..enchantments..." />
+            <marker date="1430770798887" expanded="true" signature="4516:4548" placeholder="SELECT * FRO..trinkets..." />
+            <marker date="1430770798887" expanded="true" signature="5387:5416" placeholder="SELECT * FRO..items..." />
+            <marker date="1430770798887" expanded="true" signature="5855:5885" placeholder="SELECT * FRO..spells..." />
+            <marker date="1430770798887" expanded="true" signature="6306:6339" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="7716:7745" placeholder="SELECT * FRO..boots..." />
+            <marker date="1430770798887" expanded="true" signature="7867:7903" placeholder="SELECT * FRO..enchantments..." />
+            <marker date="1430770798887" expanded="true" signature="8031:8063" placeholder="SELECT * FRO..trinkets..." />
+            <marker date="1430770798887" expanded="true" signature="8902:8931" placeholder="SELECT * FRO..items..." />
+            <marker date="1430770798887" expanded="true" signature="9370:9400" placeholder="SELECT * FRO..spells..." />
+            <marker date="1430770798887" expanded="true" signature="9851:9884" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="11342:11371" placeholder="SELECT * FRO..boots..." />
+            <marker date="1430770798887" expanded="true" signature="11493:11529" placeholder="SELECT * FRO..enchantments..." />
+            <marker date="1430770798887" expanded="true" signature="11657:11689" placeholder="SELECT * FRO..trinkets..." />
+            <marker date="1430770798887" expanded="true" signature="12528:12557" placeholder="SELECT * FRO..items..." />
+            <marker date="1430770798887" expanded="true" signature="12996:13026" placeholder="SELECT * FRO..spells..." />
           </folding>
         </state>
       </provider>
@@ -466,25 +521,26 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1430760821697" expanded="true" signature="214:255" placeholder="SELECT * FRO..champions..." />
-            <marker date="1430760821697" expanded="true" signature="873:906" placeholder="SELECT * FRO..champions..." />
-            <marker date="1430760821697" expanded="true" signature="2230:2259" placeholder="SELECT * FRO..boots..." />
-            <marker date="1430760821697" expanded="true" signature="2381:2417" placeholder="SELECT * FRO..enchantments..." />
-            <marker date="1430760821697" expanded="true" signature="2545:2577" placeholder="SELECT * FRO..trinkets..." />
-            <marker date="1430760821697" expanded="true" signature="3416:3445" placeholder="SELECT * FRO..items..." />
-            <marker date="1430760821697" expanded="true" signature="3884:3914" placeholder="SELECT * FRO..spells..." />
-            <marker date="1430760821697" expanded="true" signature="4335:4368" placeholder="SELECT * FRO..champions..." />
-            <marker date="1430760821697" expanded="true" signature="5666:5695" placeholder="SELECT * FRO..boots..." />
-            <marker date="1430760821697" expanded="true" signature="5817:5853" placeholder="SELECT * FRO..enchantments..." />
-            <marker date="1430760821697" expanded="true" signature="5981:6013" placeholder="SELECT * FRO..trinkets..." />
-            <marker date="1430760821697" expanded="true" signature="6852:6881" placeholder="SELECT * FRO..items..." />
-            <marker date="1430760821697" expanded="true" signature="7320:7350" placeholder="SELECT * FRO..spells..." />
-            <marker date="1430760821697" expanded="true" signature="7801:7834" placeholder="SELECT * FRO..champions..." />
-            <marker date="1430760821697" expanded="true" signature="9183:9212" placeholder="SELECT * FRO..boots..." />
-            <marker date="1430760821697" expanded="true" signature="9334:9370" placeholder="SELECT * FRO..enchantments..." />
-            <marker date="1430760821697" expanded="true" signature="9498:9530" placeholder="SELECT * FRO..trinkets..." />
-            <marker date="1430760821697" expanded="true" signature="10369:10398" placeholder="SELECT * FRO..items..." />
-            <marker date="1430760821697" expanded="true" signature="10837:10867" placeholder="SELECT * FRO..spells..." />
+            <element signature="e#2062#13292#0#PHP" expanded="false" />
+            <marker date="1430770798887" expanded="true" signature="2106:2147" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="2765:2798" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="4201:4230" placeholder="SELECT * FRO..boots..." />
+            <marker date="1430770798887" expanded="true" signature="4352:4388" placeholder="SELECT * FRO..enchantments..." />
+            <marker date="1430770798887" expanded="true" signature="4516:4548" placeholder="SELECT * FRO..trinkets..." />
+            <marker date="1430770798887" expanded="true" signature="5387:5416" placeholder="SELECT * FRO..items..." />
+            <marker date="1430770798887" expanded="true" signature="5855:5885" placeholder="SELECT * FRO..spells..." />
+            <marker date="1430770798887" expanded="true" signature="6306:6339" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="7716:7745" placeholder="SELECT * FRO..boots..." />
+            <marker date="1430770798887" expanded="true" signature="7867:7903" placeholder="SELECT * FRO..enchantments..." />
+            <marker date="1430770798887" expanded="true" signature="8031:8063" placeholder="SELECT * FRO..trinkets..." />
+            <marker date="1430770798887" expanded="true" signature="8902:8931" placeholder="SELECT * FRO..items..." />
+            <marker date="1430770798887" expanded="true" signature="9370:9400" placeholder="SELECT * FRO..spells..." />
+            <marker date="1430770798887" expanded="true" signature="9851:9884" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="11342:11371" placeholder="SELECT * FRO..boots..." />
+            <marker date="1430770798887" expanded="true" signature="11493:11529" placeholder="SELECT * FRO..enchantments..." />
+            <marker date="1430770798887" expanded="true" signature="11657:11689" placeholder="SELECT * FRO..trinkets..." />
+            <marker date="1430770798887" expanded="true" signature="12528:12557" placeholder="SELECT * FRO..items..." />
+            <marker date="1430770798887" expanded="true" signature="12996:13026" placeholder="SELECT * FRO..spells..." />
           </folding>
         </state>
       </provider>
@@ -507,36 +563,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OffMeta.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693" vertical-offset="102" max-vertical-offset="969">
-          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        <state vertical-scroll-proportion="-21.961538" vertical-offset="75" max-vertical-offset="969">
+          <caret line="38" column="84" selection-start-line="38" selection-start-column="84" selection-end-line="38" selection-end-column="84" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/metaDB.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33281004" vertical-offset="2185" max-vertical-offset="3366">
-          <caret line="141" column="51" selection-start-line="141" selection-start-column="51" selection-end-line="141" selection-end-column="51" />
+        <state vertical-scroll-proportion="0.6367764" vertical-offset="2703" max-vertical-offset="4080">
+          <caret line="201" column="141" selection-start-line="201" selection-start-column="141" selection-end-line="201" selection-end-column="141" />
           <folding>
-            <marker date="1430760821697" expanded="true" signature="214:255" placeholder="SELECT * FRO..champions..." />
-            <marker date="1430760821697" expanded="true" signature="873:906" placeholder="SELECT * FRO..champions..." />
-            <marker date="1430760821697" expanded="true" signature="2230:2259" placeholder="SELECT * FRO..boots..." />
-            <marker date="1430760821697" expanded="true" signature="2381:2417" placeholder="SELECT * FRO..enchantments..." />
-            <marker date="1430760821697" expanded="true" signature="2545:2577" placeholder="SELECT * FRO..trinkets..." />
-            <marker date="1430760821697" expanded="true" signature="3416:3445" placeholder="SELECT * FRO..items..." />
-            <marker date="1430760821697" expanded="true" signature="3884:3914" placeholder="SELECT * FRO..spells..." />
-            <marker date="1430760821697" expanded="true" signature="4335:4368" placeholder="SELECT * FRO..champions..." />
-            <marker date="1430760821697" expanded="true" signature="5666:5695" placeholder="SELECT * FRO..boots..." />
-            <marker date="1430760821697" expanded="true" signature="5817:5853" placeholder="SELECT * FRO..enchantments..." />
-            <marker date="1430760821697" expanded="true" signature="5981:6013" placeholder="SELECT * FRO..trinkets..." />
-            <marker date="1430760821697" expanded="true" signature="6852:6881" placeholder="SELECT * FRO..items..." />
-            <marker date="1430760821697" expanded="true" signature="7320:7350" placeholder="SELECT * FRO..spells..." />
-            <marker date="1430760821697" expanded="true" signature="7801:7834" placeholder="SELECT * FRO..champions..." />
-            <marker date="1430760821697" expanded="true" signature="9183:9212" placeholder="SELECT * FRO..boots..." />
-            <marker date="1430760821697" expanded="true" signature="9334:9370" placeholder="SELECT * FRO..enchantments..." />
-            <marker date="1430760821697" expanded="true" signature="9498:9530" placeholder="SELECT * FRO..trinkets..." />
-            <marker date="1430760821697" expanded="true" signature="10369:10398" placeholder="SELECT * FRO..items..." />
-            <marker date="1430760821697" expanded="true" signature="10837:10867" placeholder="SELECT * FRO..spells..." />
+            <element signature="e#2062#13292#0#PHP" expanded="false" />
+            <marker date="1430770798887" expanded="true" signature="2106:2147" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="2765:2798" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="4201:4230" placeholder="SELECT * FRO..boots..." />
+            <marker date="1430770798887" expanded="true" signature="4352:4388" placeholder="SELECT * FRO..enchantments..." />
+            <marker date="1430770798887" expanded="true" signature="4516:4548" placeholder="SELECT * FRO..trinkets..." />
+            <marker date="1430770798887" expanded="true" signature="5387:5416" placeholder="SELECT * FRO..items..." />
+            <marker date="1430770798887" expanded="true" signature="5855:5885" placeholder="SELECT * FRO..spells..." />
+            <marker date="1430770798887" expanded="true" signature="6306:6339" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="7716:7745" placeholder="SELECT * FRO..boots..." />
+            <marker date="1430770798887" expanded="true" signature="7867:7903" placeholder="SELECT * FRO..enchantments..." />
+            <marker date="1430770798887" expanded="true" signature="8031:8063" placeholder="SELECT * FRO..trinkets..." />
+            <marker date="1430770798887" expanded="true" signature="8902:8931" placeholder="SELECT * FRO..items..." />
+            <marker date="1430770798887" expanded="true" signature="9370:9400" placeholder="SELECT * FRO..spells..." />
+            <marker date="1430770798887" expanded="true" signature="9851:9884" placeholder="SELECT * FRO..champions..." />
+            <marker date="1430770798887" expanded="true" signature="11342:11371" placeholder="SELECT * FRO..boots..." />
+            <marker date="1430770798887" expanded="true" signature="11493:11529" placeholder="SELECT * FRO..enchantments..." />
+            <marker date="1430770798887" expanded="true" signature="11657:11689" placeholder="SELECT * FRO..trinkets..." />
+            <marker date="1430770798887" expanded="true" signature="12528:12557" placeholder="SELECT * FRO..items..." />
+            <marker date="1430770798887" expanded="true" signature="12996:13026" placeholder="SELECT * FRO..spells..." />
           </folding>
         </state>
       </provider>
